@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="NoteName">Note name</string>
+    <string name="Content">Content</string>
+    <string name="ViewList">View list</string>
+</resources>
